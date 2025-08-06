@@ -1,7 +1,9 @@
 # Final Java Project
 
-This project simulates a shopping system with buyers, sellers, shopping carts, and purchase history.  
-It includes classes for managing items, categories, users, and transactions.
+Buyers & Sellers Simulation System (Java)
+A Java-based simulation of a marketplace system with buyers and sellers.
+Sellers can upload items for sale, while buyers can create shopping carts, view their purchase history, place new orders, and reorder past purchases.
+The system supports user creation (buyers and sellers) and implements core Object-Oriented Programming (OOP) principles.
 
 ## Technologies
 - Java
